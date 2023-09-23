@@ -3,7 +3,7 @@ const moment = require('moment');
 // requires Mongoose
 const { Schema, Types } = require('mongoose');
 
-//  Definning the reactionSchema 
+//  Defines the reactionSchema 
 const reactionSchema = new Schema(
     {
       reactionId: {
