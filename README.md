@@ -1,5 +1,9 @@
 # Socail-Network-API
+  
   This is an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list
+
+  ![alt text](/assets/images/README.screeshot.png)) 
+ 
  
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
