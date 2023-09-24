@@ -3,7 +3,7 @@ const { User, Thought } = require('../models');
 const userController = {
   
     // Get all users
-  getUsers(req, res) {
+  getAllUsers(req, res) {
     User.find()
       .select('-__v')
       .then((userData) => {
@@ -60,7 +60,7 @@ const userController = {
         if (!userData) {
           return res.status(404).json({ message: 'User not found, please try again.' });
         }
-        res.json(userserData);
+        res.json(userData);
       })
       .catch((err) => {
         console.log(err);
