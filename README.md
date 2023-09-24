@@ -2,7 +2,7 @@
   
   This is an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list
 
-  ![alt text](/assets/images/README.screeshot.png)) 
+  ![alt text](/assets/images/README.screeshot.png) 
  
  
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -33,7 +33,7 @@
 
   ## Demonstration
 
-  [Here's a link for video demonstration]()
+  [Here's a link for video demonstration](https://drive.google.com/file/d/1Lt9VrXTgVS3pbyTJSl9nFuEIm1QrqqOc/view?usp=sharing)
 
   <a name="contribution"></a>
 
